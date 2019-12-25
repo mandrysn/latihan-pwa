@@ -1,0 +1,9 @@
+1. display: Kita bisa mengatur bagaimana browser menampilkan aplikasi saat diluncurkan. Ada beberapa nilai yang bisa kita berikan untuk atribut display diantaranya:
+
+a. fullscreen: Membuka aplikasi tanpa antarmuka browser dan mengambil seluruh ruang di layar.
+b. standalone: Membuka aplikasi dan menampilkannya seperti aplikasi native. Aplikasi akan memiliki jendela sendiri yang terpisah dari browser serta menyembunyikan UI browser seperti address bar.
+c. minimal-ui: Mirip seperti fullscreen akan tetapi memiliki akses navigasi minimalis seperti tombol back, forward, reload, dll.
+d. browser: Membuka aplikasi di browser seperti web biasa.
+
+
+2. Web App Manifest Generator dapat diakses pada halaman https://app-manifest.firebaseapp.com.
