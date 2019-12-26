@@ -5,5 +5,5 @@ b. standalone: Membuka aplikasi dan menampilkannya seperti aplikasi native. Apli
 c. minimal-ui: Mirip seperti fullscreen akan tetapi memiliki akses navigasi minimalis seperti tombol back, forward, reload, dll.
 d. browser: Membuka aplikasi di browser seperti web biasa.
 
-
+-------------------------------------------------
 2. Web App Manifest Generator dapat diakses pada halaman https://app-manifest.firebaseapp.com.
