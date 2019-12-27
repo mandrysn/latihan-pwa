@@ -1,0 +1,16 @@
+{
+    "name": "Submission Pertama",
+    "short_name": "Submission",
+    "description": "Aplikasi PWA pertama saya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#aa66ed",
+    "theme_color": "#aa66ed",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512", 
+            "type": "image/png"
+        }
+    ]
+}
